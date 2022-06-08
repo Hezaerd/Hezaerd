@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-Unity-0d1117?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/-VS-0d1117?style=flat-square&logo=Visual Studio&logoColor=5C2D91"/>
     <img src="https://img.shields.io/badge/-VS Code-0d1117?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
-    <img src="https://img.shields.io/badge/-CMake-0d1117?style=flat-square&logo=cmake"/>
+    <img src="https://img.shields.io/badge/-CMake-0d1117?style=flat-square&logo=cmake&logoColor=064F8C"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
