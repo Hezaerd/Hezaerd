@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/-VS-141321?style=flat-square&logo=Visual Studio&logoColor=5C2D91"/>
     <img src="https://img.shields.io/badge/-VS Code-563D7C?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
     <img src="https://img.shields.io/badge/-CMake-141321?style=flat-square&logo=cmake&logoColor=064F8C"/>
+    <img src="https://img.shields.io/badge/-Trello-black?style=flat-square&logo=Trello&logoColor=6b8557"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
