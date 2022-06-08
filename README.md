@@ -14,9 +14,14 @@
     Technology Stack
 </h2>
 <p align = "center">
-     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-    <img src="https://img.shields.io/badge/-Python-376c99?style=flat-square&logo=Python&logoColor=f6d049"/>
+    <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c"/>
+    <img src="https://img.shields.io/badge/-C++-0d1117?style=flat-square&logo=c"/>
+    <img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=Python"/>
+    <img src="https://img.shields.io/badge/-openGL-0d1117?style=flat-square&logo=opengl"/>
+    <img src="https://img.shields.io/badge/-Unity-0d1117?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-VS-0d1117?style=flat-square&logo=Visual Studio&logoColor=5C2D91"/>
+    <img src="https://img.shields.io/badge/-VS Code-0d1117?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
+    <img src="https://img.shields.io/badge/-CMake-0d1117?style=flat-square&logo=cmake"/>
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
