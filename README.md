@@ -14,8 +14,12 @@
     Connect with me
 </h2>
 <p align="center">
-<a href="https://twitter.com/hezaerd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hezaerd" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/swann-rouanet-7aa979239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+    <a href="https://twitter.com/hezaerd" target="blank">
+        <img align="center" src="img/twitter.svg" alt="hezaerd" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/swann-rouanet-7aa979239/" target="blank">
+        <img align="center" src="img/linked-in-alt.svg" height="30" width="40" />
+    </a>
 </p>
 
 <h2 align = "center">
