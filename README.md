@@ -10,7 +10,7 @@
 
 
 <h2 align = "center">
-    Technology Stack
+    Technology Stack <img src="img/laptop.gif" width="50"/>
 </h2>
 <p align = "center">
     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
@@ -28,7 +28,7 @@
     
 
 <h2 align = "center">
-    Reach me out on
+    Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
 </h2>
 <p align="center">
     <a href="https://twitter.com/hezaerd" target="blank">
