@@ -1,6 +1,13 @@
-<h3 align="center">Game Programming Student at Isart Digital Montréal</h3>
+<h1 align="center"> 
+    Game Programming Student at Isart Digital Montréal
+</h1>
 
-[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
+<p align = "center">
+     <img src="https://badges.pufler.dev/visits/Hezaerd/Hezaerd"/> 
+     <img src="https://badges.pufler.dev/repos/Hezaerd"/>
+     <img src="https://badges.pufler.dev/commits/monthly/Hezaerd"/>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
