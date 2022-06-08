@@ -11,7 +11,7 @@
 
 
 <h2 align="center">
-    Connect with me
+    Reach me out on
 </h2>
 <p align="center">
     <a href="https://twitter.com/hezaerd" target="blank">
