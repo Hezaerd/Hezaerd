@@ -10,7 +10,19 @@
 </p>
 
 
-<h2 align="center">
+<h2 align = "center">
+    Technology Stack
+</h2>
+<p align = "center">
+     <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
+    <img src="https://img.shields.io/badge/-Python-376c99?style=flat-square&logo=Python&logoColor=f6d049"/>
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+    
+
+<h2 align = "center">
     Reach me out on
 </h2>
 <p align="center">
