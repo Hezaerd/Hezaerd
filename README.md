@@ -1,6 +1,5 @@
-<h1 align="center"> 
-    Game Programming Student at Isart Digital Montréal
-</h1>
+<p align = "center">
+    <img src="img/githubreadmebanner.jpeg"/>
 
 
 <p align = "center">
