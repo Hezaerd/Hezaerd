@@ -1,5 +1,5 @@
 <p align = "center">
-    <img src="img/githubreadmebanner.jpeg"/>
+    <img src="img/Background (3).png"/>
 
 
 <p align = "center">
