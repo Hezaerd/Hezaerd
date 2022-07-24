@@ -1,12 +1,12 @@
 <p align = "center">
     <img src="img/Background (3).png"/>
 
-
+<!--
 <p align = "center">
      <img src="https://badges.pufler.dev/visits/Hezaerd/Hezaerd"/> 
      <img src="https://badges.pufler.dev/repos/Hezaerd"/>
      <img src="https://badges.pufler.dev/commits/monthly/Hezaerd"/>
-</p>
+</p> -->
 
 
 <h2 align = "center">
