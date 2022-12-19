@@ -1,5 +1,5 @@
 <p align = "center">
-    <img src="img/background.jpg"/>
+    <img src="img/background.png"/>
 
 <!--
 <p align = "center">
