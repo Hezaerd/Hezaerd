@@ -19,6 +19,6 @@
 </p>
 
 <p align = "center">
-<img src=https://streak-stats.demolab.com?user=Hezaerd&theme=blueberry-duo&hide_border=true&mode=weekly&background=30%2CA1E2DA%2CEAF0D6&stroke=FFFFFF00&currStreakNum=4677D3&currStreakLabel=4677D3 />
+<img src=https://streak-stats.demolab.com?user=Hezaerd&theme=blueberry-duo&hide_border=true&mode=weekly&background=0%2CA1E2DA%2CEAF0D6&stroke=FFFFFF00&currStreakNum=4677D3&currStreakLabel=4677D3 />
 
 </p>
