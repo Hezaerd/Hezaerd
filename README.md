@@ -3,15 +3,15 @@
 <p align = "center">
     <img src = "https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif" />
 </p>
+
 <br>
 
-- 🎓 I'm a student at the **Isart Digital** school in **Montréal**
 - 🤍 I’m currently working on a game engine as a graduation project
 - 👉🏻 Check out my portfolio: https://hezaerd.github.io/
 - 🌱 I'm currently learning **C++**
 - ⚡ Fun fact: I hate coffee
 
-<br><br>
+<br>
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&bg_color=30,a1e2da,eaf0d6&show_icons=true&title_color=4677d3&ring_color=4677d3">
