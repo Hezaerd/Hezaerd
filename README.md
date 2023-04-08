@@ -1,55 +1,24 @@
-<p align = "center">
-    <img src="img/background.png"/>
+<h1 align = "center"> Hi 👋, I'm Swann Rouanet </h1>
 
-<!--
 <p align = "center">
-     <img src="https://badges.pufler.dev/visits/Hezaerd/Hezaerd"/> 
-     <img src="https://badges.pufler.dev/repos/Hezaerd"/>
-     <img src="https://badges.pufler.dev/commits/monthly/Hezaerd"/>
-</p> -->
-
-
-<h2 align = "center">
-    Technology Stack <img src="img/laptop.gif" width="50"/>
-</h2>
-<p align = "center">
-    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c"/>
-    <img src="https://img.shields.io/badge/-C Sharp-430098?style=flat-square&logo=C Sharp&logoColor=239120"/>
-    <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-    <img src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python&logoColor=ffd343"/>
-    <img src="https://img.shields.io/badge/-openGL-0d1117?style=flat-square&logo=opengl&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-Unity-E34A86?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
-    <img src="https://img.shields.io/badge/-VS-141321?style=flat-square&logo=Visual Studio&logoColor=5C2D91"/>
-    <img src="https://img.shields.io/badge/-VS Code-563D7C?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/>
-    <img src="https://img.shields.io/badge/-CMake-141321?style=flat-square&logo=cmake&logoColor=064F8C"/>
-    <img src="https://img.shields.io/badge/-Trello-black?style=flat-square&logo=Trello&logoColor=454e5f"/>
-    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+    <img src = "https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif" />
 </p>
-    
-
-<h2 align = "center">
-    Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
-</h2>
-<p align="center">
-    <a href="https://twitter.com/hezaerd2" target="blank">
-        <img align="center" src="img/twitter.svg" alt="hezaerd" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/swann-rouanet-7aa979239/" target="blank">
-        <img align="center" src="img/linked-in-alt.svg" height="30" width="40" />
-    </a>
-</p>
-
-<h2 align = "center">
-    My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
-
 <br>
 
+- 🎓 I'm a student at the **Isart Digital** school in **Montréal**
+- 🤍 I’m currently working on a game engine as a graduation project
+- 👉🏻 Check out my portfolio: https://hezaerd.github.io/
+- 🌱 I'm currently learning **C++**
+- ⚡ Fun fact: I hate coffee
+
+<br><br>
+
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&line_height=27&show_icons=true&theme=radical&hide_border=true">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hezaerd&langs_count=3&show_icons=true&theme=radical&hide_border=true">
-</a>
-<p align = center>
-    <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Hezaerd&theme=radical&hide_border=true">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&bg_color=30,a1e2da,eaf0d6&show_icons=true&title_color=4677d3&ring_color=4677d3">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hezaerd&bg_color=30,a1e2da,eaf0d6&langs_count=3&show_icons=true&card_width=150&hide_border=true&title_color=4677d3">
+</p>
+
+<p align = "center">
+<img src=https://streak-stats.demolab.com?user=Hezaerd&theme=blueberry-duo&hide_border=true&mode=weekly&background=30%2CA1E2DA%2CEAF0D6&stroke=FFFFFF00&currStreakNum=4677D3&currStreakLabel=4677D3 />
+
 </p>
