@@ -14,7 +14,7 @@
 <br>
 
 <p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&bg_color=30,a1e2da,eaf0d6&show_icons=true&title_color=4677d3&ring_color=4677d3">
+    <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&line_height=27&bg_color=30,a1e2da,eaf0d6&show_icons=true&title_color=4677d3&ring_color=4677d3">
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hezaerd&bg_color=30,a1e2da,eaf0d6&langs_count=3&show_icons=true&card_width=150&hide_border=true&title_color=4677d3">
 </p>
 
