@@ -6,7 +6,7 @@
 
 <br>
 
-- 🤍 I'm currently working on a game engine that's far too complex for Minecraft.
+- 🤍 I'm currently working on a collection of small libraries for a future project.
 - 👉🏻 Check out my portfolio: https://hezaerd.github.io/
   
 - 🌱 I'm currently learning **C++**
