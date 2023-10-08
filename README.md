@@ -4,18 +4,16 @@
     <img src = "https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif" />
 </p>
 
-<br>
+<br></br>
 
 - 🤍 I'm currently working on a collection of small libraries for a future project.
 - 👉🏻 Check out my portfolio: https://hezaerd.github.io/
 - 🌱 I'm currently learning **C++**
 - ⚡ Fun fact: I hate coffee
-<br>
-- ☁ "You either die a bug, or live long enough to see yourself become a feature."
+<br></br>
+- ☁ *"You either die a bug, or live long enough to see yourself become a feature."*
 
-<br>
-<br>
-<br>
+<br></br>
 
 <p align = "center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&line_height=27&bg_color=a1e2da&show_icons=true&title_color=4677d3&ring_color=4677d3">
