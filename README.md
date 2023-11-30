@@ -7,7 +7,7 @@
 <br></br>
 
 - 🤍 I'm currently working on a collection of small libraries for a future project.
-- 👉🏻 Check out my portfolio: https://hezaerd.github.io/
+- 👉🏻 Check out my portfolio: [https://hezaerd.github.io/](https://portfolio.swann-rouanet.com/)
 - 🌱 I'm currently learning **C++**
 - ⚡ Fun fact: I hate coffee
 <br></br>
