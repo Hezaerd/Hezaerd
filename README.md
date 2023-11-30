@@ -12,15 +12,3 @@
 - ⚡ Fun fact: I hate coffee
 <br></br>
 - ☁ *"You either die a bug, or live long enough to see yourself become a feature."*
-
-<br></br>
-
-<p align = "center">
-    <img src = "https://github-readme-stats.vercel.app/api?username=Hezaerd&line_height=27&bg_color=a1e2da&show_icons=true&title_color=4677d3&ring_color=4677d3">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hezaerd&bg_color=a1e2da&langs_count=3&show_icons=true&card_width=150&hide_border=true&title_color=4677d3">
-</p>
-
-<p align = "center">
-<img src=https://streak-stats.demolab.com?user=Hezaerd&theme=blueberry-duo&hide_border=true&mode=weekly&background=A1E2DA&stroke=FFFFFF00&currStreakNum=4677D3&currStreakLabel=4677D3 />
-
-</p>
