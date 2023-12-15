@@ -6,7 +6,7 @@
 
 <br></br>
 
-- 🤍 I'm currently working on a [HezaBot](https://github.com/Hezaerd/HezaBot), a multifunction discord bot using [discord.py](https://discordpy.readthedocs.io/en/stable/)
+- 🤍 I'm currently working on [HezaBot](https://github.com/Hezaerd/HezaBot), a multifunction discord bot using [discord.py](https://discordpy.readthedocs.io/en/stable/)
 - 👉🏻 Check out my portfolio: [https:/portfolio.swann-rouanet.com/](https://portfolio.swann-rouanet.com/)
 - 🌱 I'm currently learning **C++**
 - ⚡ Fun fact: I hate coffee
