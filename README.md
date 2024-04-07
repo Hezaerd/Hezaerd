@@ -6,7 +6,7 @@
 
 <br></br>
 
-- 🤍 I'm currently working on [HezaBot](https://github.com/Hezaerd/HezaBot), a multifunction discord bot using [discord.py](https://discordpy.readthedocs.io/en/stable/)
+- 🤍 I'm currently working on [TerraAccessories](https://github.com/Hezaerd/Terraccessories), a minecraft that aim to bring some cool Terraria features inside of Minecraft
 - 👉🏻 Check out my portfolio: [https:/portfolio.swann-rouanet.com/](https://portfolio.swann-rouanet.com/)
 - 🌱 I'm currently learning **C++**
 - ⚡ Fun fact: I hate coffee
