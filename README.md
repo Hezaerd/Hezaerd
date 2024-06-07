@@ -1,8 +1,3 @@
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Hezaerd/Hezaerd/blob/main/img/background.png');]{x0000}$}
-```
-
 <h1 align = "center"> Hi 👋, I'm Swann Rouanet </h1>
 
 <p align = "center">
@@ -17,3 +12,7 @@
 - ⚡ Fun fact: I hate coffee
 <br></br>
 - ☁ *"You either die a bug, or live long enough to see yourself become a feature."*
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/hezaerd/hezaerd/main/pattern.jpg');]{x0000}$}
