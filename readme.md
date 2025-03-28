@@ -9,8 +9,8 @@
 <br></br>
 
 - 🤍 I'm currently working on too much side projects at once!
-- 👉🏻 Check out my amazing portfolio: [https:/hezaerd.com](https:/hezaerd.com)
-- 🌱 I'm currently learning **C++**, **C#**, **TypeScript** and **Java**.
+- 👉🏻 Check out my portfolio: [https:/hezaerd.com](https:/hezaerd.com)
+- 🌱 I'm currently learning **C#**, **TypeScript** and **Java**.
 - ⚡ Fun fact: I hate coffee
   <br></br>
-- 🤞 _Gojo Satoru hardcore fan_
+- 🐈 _Cat guy_
