@@ -20,7 +20,7 @@
 </p>
 
 <p>
-  <img src="img/banner.jpeg">
+  <img src="img/banner.jpg">
 </p>
 
 <p>
